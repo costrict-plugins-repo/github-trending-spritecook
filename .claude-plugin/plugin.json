@@ -1,0 +1,26 @@
+{
+  "name": "spritecook",
+  "version": "0.1.15",
+  "description": "Generate sprites, cohesive UI kits, textures, and short animations in Claude with SpriteCook's guided game-art workflows.",
+  "author": {
+    "name": "SpriteCook",
+    "email": "kimo@spritecook.ai",
+    "url": "https://spritecook.ai"
+  },
+  "homepage": "https://spritecook.ai",
+  "repository": "https://github.com/SpriteCook/claude-plugin",
+  "license": "MIT",
+  "icon": "./assets/spritecook-logo.png",
+  "documentationUrl": "https://spritecook.ai/claude",
+  "privacyPolicyUrl": "https://spritecook.ai/privacy",
+  "termsOfServiceUrl": "https://spritecook.ai/terms",
+  "keywords": [
+    "spritecook",
+    "game-art",
+    "sprites",
+    "pixel-art",
+    "animation",
+    "mcp",
+    "claude"
+  ]
+}
